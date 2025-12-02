@@ -12,7 +12,7 @@ export function HeroSection() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/on-air.jpeg')",
+          backgroundImage: "url('/img.jpg')",
         }}
       />
       
