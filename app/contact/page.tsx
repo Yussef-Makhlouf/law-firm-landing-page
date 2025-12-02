@@ -271,7 +271,7 @@ export default function ContactPage() {
                 className="bg-primary text-navy hover:bg-primary/90 px-10 py-7 text-lg font-semibold w-full sm:w-auto"
                 asChild
               >
-                <a href="https://wa.me/966500000000">
+                <a href="https://wa.me/201093998856">
                   <MessageCircle className="w-5 h-5 ml-2" />
                   تواصل عبر الواتساب
                 </a>
@@ -282,7 +282,7 @@ export default function ContactPage() {
                 className="border-2 border-white/30 text-white hover:bg-white hover:text-navy px-10 py-7 text-lg font-semibold w-full sm:w-auto bg-transparent"
                 asChild
               >
-                <a href="tel:+966500000000">
+                <a href="tel:+201093998856">
                   <Phone className="w-5 h-5 ml-2" />
                   اتصل الآن
                 </a>
