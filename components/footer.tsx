@@ -139,6 +139,14 @@ export function Footer() {
                 الشروط والأحكام
               </a> */}
             </div>
+            <div className="flex items-center gap-6">
+              <a href="https://yussef-dev-studio.vercel.app/" className="text-white/50 text-sm hover:text-primary transition-colors">
+                <img src="/yussef-dev-studio.png" className="w-12 h-12" alt="YUSSEF DEV STUDIO" />
+              </a>
+              <a href="https://wa.me/201009403754" className="text-white/50 text-sm hover:text-primary transition-colors">
+                تطوير فريق YUSSEF DEV STUDIO
+              </a>
+            </div>
           </div>
         </div>
       </div>
